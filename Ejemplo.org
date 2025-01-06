@@ -1,0 +1,43 @@
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+
+#+options: H:2
+#+latex_class: beamer
+#+columns: %45ITEM %10BEAMER_env(Env) %10BEAMER_act(Act) %4BEAMER_col(Col) %8BEAMER_opt(Opt)
+#+beamer_theme: Madrid
+#+beamer_color_theme:
+#+beamer_font_theme:
+#+beamer_inner_theme:
+#+beamer_outer_theme:
+#+beamer_header:
+
+#+title: Ejemplo
+#+date: <2025-01-06 Mon>
+#+author: Lenin G. Falconí
+#+email: lenin.falconi@epn.edu.ec
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.7.5)
+#+cite_export:
+
+* seccion1
+** Nombre Diapositiva1
+- hola
+- hola
+- hola
+[[https://en.wikipedia.org/wiki/Brian_Cox_(physicist)][Brian Cox]]
+[[https://en.wikipedia.org/wiki/Brian_Cox_(physicist)][https://en.wikipedia.org/wiki/Brian_Cox_(physicist)]]
+https://en.wikipedia.org/wiki/Brian_Cox_(physicist)
+
+** Nombre Diapositiva2
+- hola
+- hola
+- hola
+[[./images/image.png]]
+
+* Seccion2
+- hola
+- hola
+- hola
+*** teorema
+teorema Pitagorax
